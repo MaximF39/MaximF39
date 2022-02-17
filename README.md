@@ -1,8 +1,10 @@
 # My name is Maxim, I am 19 years old
 ## I know python well and can write parsers
+
 ## My website: in development...
-## email: maks.fedotow14@mail.ru
-## telegram: @maximF39
+
+## Email: maks.fedotow14@mail.ru
+## Telegram: @maximF39
 <!--
 **MaximF39/MaximF39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
