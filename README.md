@@ -6,7 +6,7 @@
 ## Email: maks.fedotow14@mail.ru
 ## Telegram: @maximF39
 
-### I'm learn now Docker and C++
+#### I'm learn now Docker and C++
 <!--
 **MaximF39/MaximF39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
