@@ -1,6 +1,6 @@
 # My name is Maxim, I am 19 years old
 ## I know python well and can write parsers
-## I know base C#, C++, Lua, html, css, js, as3
+## I know base C#, C++, html, css
 
 ## My website: in development...
 
