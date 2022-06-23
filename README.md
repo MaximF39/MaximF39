@@ -4,7 +4,7 @@
 
 ## My website: in development...
 
-## Email: maks.fedotow14@mail.ru
+## Email: maxf39@mail.ru
 ## Telegram: @maximF39
 
 #### I'm learn now Docker and C++/С#
