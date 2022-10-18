@@ -2,4 +2,4 @@
 
 ## Email: maxf39@mail.ru
 ## Telegram: @maximF39 <br>
-I teach design principles, kubernetes, go.
+I learn design principles, kubernetes, go.
