@@ -1,5 +1,5 @@
-# Maxim, I am 20 years old
+# Maxim, I am 20 years old  
 
-## Email: maxf39@mail.ru
-## Telegram: @maximF39 <br>
-I learn design principles, kubernetes, go.
+## Email: maxf39@mail.ru  
+## Telegram: @maxF39  
+I learn design principles, kubernetes.  
